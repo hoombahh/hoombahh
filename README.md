@@ -1,5 +1,12 @@
-## Hi there 👋
-
+<div>
+    <a href="https://www.notion.so/---" target="_blank">
+      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+    </a>
+    <a href="https://velog.io/@hoombah" target="_blank">
+      <img src="https://img.shields.io/badge/Blog-F7DF1E?style=flat-square&logo=Velog&logoColor=white"/>
+    </a>
+  <p></p>
+</div>
 <!--
 **hoombahh/hoombahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
